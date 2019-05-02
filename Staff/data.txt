@@ -1,0 +1,14 @@
+First text field:
+
+Second text field:
+
+Third text field:
+
+Fourth text field:
+jTextField4
+Fifth text field:
+jTextField5
+Sixth text field:
+jTextField6
+Seventh text field:
+
